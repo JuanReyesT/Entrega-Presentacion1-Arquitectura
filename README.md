@@ -2,6 +2,11 @@
 
 Este repositorio contiene los archivos de la entrega para el taller de arquitectura de software.
 
+Los integrantes del grupo 1 son:
+- Juan Reyes
+- Esteban Pedraza
+- Sebastián Galeano
+
 ## Repositorios del Proyecto
 
 - [Proyecto Django-GraphQL-Hexagonal](https://github.com/MrEstebban/proyecto-django-graphql-hexagonal/releases/tag/v1.0)
